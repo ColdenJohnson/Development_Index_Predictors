@@ -5,3 +5,4 @@ Examine which factors can be used to explain development (GDP p/c). Data analysi
 
 **View project [here](https://github.com/ColdenJohnson/Development_Index_Predictors/blob/main/Development_Predictors_Knit.pdf)!**
 
+*Note: due to PDF length, to view the complete project click "new pages" at the bottom of the document during scroll-down.
