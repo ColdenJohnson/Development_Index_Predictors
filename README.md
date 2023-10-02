@@ -1,5 +1,5 @@
 # Development_Index_Predictors
-Examine which factors can be used to explain development (GDP p/c). Data analysis completed using R.
+Using R, examine which factors can be used to explain a country's development level.
 
 **View data [here](https://github.com/ColdenJohnson/Development_Index_Predictors/blob/main/Development_Preditors.csv)**
 
